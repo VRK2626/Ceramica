@@ -6,4 +6,5 @@ securely, with Node.js ensuring fast and reliable performance.
 ![WhatsApp Image 2024-11-15 at 18 04 08_8c4d3502](https://github.com/user-attachments/assets/e1f5d04b-d525-4cf1-b34d-b778378087c7)
 The app allows users to create accounts, track orders, and save
 favorites, with Node.js managing authentication and session handling.
-![Uploading WhatsApp Image 2024-11-15 at 18.04.55_43336127.jpg…]()
+![WhatsApp Image 2024-11-15 at 18 04 55_43336127](https://github.com/user-attachments/assets/788f43c9-5c73-4855-a1dc-d28f41d7bf1d)
+
